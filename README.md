@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linda
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on event listeners and handlers.
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Business analytics
+- 💞️ I’m looking to collaborate on predective modeling
 - 📫 How to reach me ...
 
 <!---
