@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linda
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Business analytics
-- 💞️ I’m looking to collaborate on Predictive Analytics
+- 💞️ I’m looking to collaborate on Predictive Analytics and Machine Learning 
 - 📫 How to reach me ...
 
 <!---
