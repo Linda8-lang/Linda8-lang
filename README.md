@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Linda
 - 👀 I’m interested in Business Intelligence Analysis| Data Engineering
 - 🌱 I’m currently learning Business analytics
-- 💞️ I’m looking to collaborate on Data Modeling,Predictive Analytics and Machine Learning 
+- 💞️ I’m looking to collaborate on Data Modeling,Predictive Analytics and Machine Learning
+- Freelancing services https://linda8-lang.github.io/MyWebsite/
 - 📫 Let's connect on https://www.linkedin.com/in/linda-aluso-business-data-analytics/
 
 <!---
