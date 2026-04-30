@@ -10,9 +10,9 @@ My work involves uncovering the stories behind the numbers using tools such as S
 
 ## Some highlights:
 
-💡 Developed a dashboard solution that helps doctors to spot autism/epilepsy pattern in children, leading to faster diagnosis.
+💡 Developed an interactive dashboard to help doctors identify autism and epilepsy patterns in children, enabling faster and more accurate diagnosis.
 
-🐳 Build a RAG AI Assistant to help students get answers for their Business Studies question, the system had an accuracy of about 95%.
+🐳 Built a Retrieval-Augmented Generation (RAG) AI assistant to support students with Business Studies questions, achieving approximately 95% answer accuracy.
 
 I love collaborating with diverse teams, learning cutting-edge technologies, and documenting my learning journey.
  
