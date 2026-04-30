@@ -1,5 +1,6 @@
 ## Hi, I'm Linda Aluso
 💻 Business Intelligence Analyst @ The Forward Virtual Assistant
+
 🎓 M.S. Business Analytics @ University of Louisville, Louisville, Kentucky
 
 ## 🚀 About Me
