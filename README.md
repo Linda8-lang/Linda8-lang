@@ -5,12 +5,15 @@
 
 ## 🚀 About Me
 I’m a Business Intelligence Analyst passionate about building scalable and reliable business decision tools.
+
 My work involves uncovering the stories behind the numbers using tools such as SQL, Power BI, Snowflake, Python and Fabric.
 
 ## Some highlights:
 
 💡 Developed a dashboard solution that helps doctors to spot autism/epilepsy pattern in children, leading to faster diagnosis.
+
 🐳 Build a RAG AI Assistant to help students get answers for their Business Studies question, the system had an accuracy of 95%.
+
 I love collaborating with diverse teams, learning cutting-edge technologies, and documenting my learning journey.
  
 ## 🧠 Technical Skills
