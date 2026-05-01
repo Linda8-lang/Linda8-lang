@@ -3,7 +3,7 @@
 
 🎓 M.S. Business Analytics @ University of Louisville, Louisville, Kentucky
 
-## 🚀 About Me
+## About Me
 I’m a Business Intelligence Analyst passionate about building scalable and reliable business decision tools.
 
 My work involves uncovering the stories behind the numbers using tools such as SQL, Power BI, Snowflake, Python and Fabric.
@@ -16,21 +16,21 @@ My work involves uncovering the stories behind the numbers using tools such as S
 
 I love collaborating with diverse teams, learning cutting-edge technologies, and documenting my learning journey.
  
-## 🧠 Technical Skills
+## Technical Skills
 Languages
 Python R 
 
 ## Frameworks & Tools
 Docker Kubernetes GCP
 
-## 🌱 Currently
+##  Currently
 Learning Microsoft Fabric architecture 
 
 Sharing skills learned on Github and Linkedin
 
 Exploring AI-driven development tools and graph-based architectures
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 📧 Email: alusolinda2020@gmail.com
 
