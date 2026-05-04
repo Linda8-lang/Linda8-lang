@@ -12,7 +12,9 @@ My work involves uncovering the stories behind the numbers using tools such as S
 
 💡 Developed an interactive dashboard to help doctors identify autism and epilepsy patterns in children, enabling faster and more accurate diagnosis.
 
-🐳 Built a Retrieval-Augmented Generation (RAG) AI assistant to support students with Business Studies questions, achieving approximately 95% answer accuracy.
+🤖 Built a Retrieval-Augmented Generation (RAG) AI assistant to support students with Business Studies questions, achieving approximately 95% answer accuracy.
+
+ 🔐 Developed and documented a hierarchical Dynamic Row-Level Security framework using DAX (PATH/PATHCONTAINS() + USERPRINCIPALNAME) to enable secure, attribute-based access control in multi-user Power BI environments.
 
 I love collaborating with diverse teams, learning cutting-edge technologies, and documenting my learning journey.
  
