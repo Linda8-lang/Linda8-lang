@@ -3,6 +3,7 @@
 
 🎓 M.S. Business Analytics @ University of Louisville, Louisville, Kentucky
 
+
 ## About Me
 I’m a Business Intelligence Analyst passionate about building scalable and reliable business decision tools.
 
@@ -20,13 +21,13 @@ I love collaborating with diverse teams, learning cutting-edge technologies, and
  
 ## Technical Skills
 Languages
-Python R 
+Python R SQL
 
 ## Frameworks & Tools
 Docker Kubernetes GCP
 
 ##  Currently
-Learning Microsoft Fabric architecture 
+Learning Microsoft Fabric architecture and AI Product  Management
 
 Sharing skills learned on Github and Linkedin
 
