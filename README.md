@@ -2,7 +2,7 @@
 
 💻 **Business Intelligence Analyst** @ The Forward Virtual Assistant  
 🎓 **M.S. Business Analytics** @ University of Louisville  
-🤖 **AI Product Management Fellow**
+🤖 **AI Product Management Fellow** @ PM Accelerator
 
 > Building at the intersection of data, AI, and product.
 
