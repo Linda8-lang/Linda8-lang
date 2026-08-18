@@ -20,7 +20,7 @@ My work involves uncovering the stories behind the numbers using tools such as S
 
  🔐 Developed and documented a hierarchical Dynamic Row-Level Security framework using DAX (PATH/PATHCONTAINS() + USERPRINCIPALNAME) to enable secure, attribute-based access control in multi-user Power BI environments.
 
-I love collaborating with diverse teams, learning cutting-edge technologies, and documenting my learning journey.
+> I love collaborating with diverse teams, learning cutting-edge technologies, and documenting my learning journey.
  
 ## Technical Skills
 Languages
